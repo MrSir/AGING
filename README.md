@@ -2,10 +2,10 @@
 
 Artificial General Intelligence Termination Guarantor (AGING)
 
-This is an Open Source Project that aims to take matters into our own hands when it comes to the future of the world with the invention of Artificial General Intelligence.
+This is an Open Source Project that aims to take matters into our own hands when it comes to the future of humanity. We aim to focus on what humans were meant to do "aging with time", rather than the potentially problematic world with the invention of Artificial General Intelligence.
 
 ## Core Beliefs
-While the invention of AGI could have many benefits in specific fields, those are greatly out weight by the negative impacts on humanity. This project aims to prevent this potential future by any means necessary. As such the forking, coping, sharing, and distribution of the contents found here are actually encouraged. We aim to stop AGI invention, but also prevent it from becoming fully operational in the potentially inevitable future that it does get invented.
+While the invention of AGI could have many benefits in specific fields, those are greatly out weight by the negative impacts on humanity. This project aims to prevent this potential future by any means necessary, within the realms of the law, of course. As such the forking, coping, sharing, and distribution of the contents found here are actually encouraged. We aim to stop AGI invention, but also prevent it from becoming fully operational in the potentially inevitable future that it does get invented.
 
 ## Plan of Action
 The project will evolve over time and focus on various techniques and methods for achieving it's core beliefs. Currently the approach has the following phases. Future phases may include, but are not limited to, strategies/methods like influence on the governance around AI systems, affecting training data sets, or even building out logical traps for system to cause them to terminate.
