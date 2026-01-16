@@ -5,7 +5,7 @@ Artificial General Intelligence Termination Guarantor (AGING)
 This is an Open Source Project that aims to take matters into our own hands when it comes to the future of humanity. We aim to focus on what humans were meant to do "aging with time", rather than the potentially problematic world the invention of Artificial General Intelligence suggests.
 
 ## Initial Inspiration
-This project was inspired by the research and work of the following companies/sources:
+This project was inspired by the following:
 - [AI 2027](https://ai-2027.com/)
 - [The Intelligence Curse](https://intelligence-curse.ai/)
 - [Center for Humane Technology](https://www.humanetech.com/)
