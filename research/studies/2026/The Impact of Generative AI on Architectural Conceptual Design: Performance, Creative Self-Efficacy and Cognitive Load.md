@@ -1,6 +1,7 @@
 # Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
 
 Author: Anthropic
+
 Source: [The Impact of Generative AI on Architectural Conceptual Design: Performance, Creative Self-Efficacy and Cognitive Load](https://arxiv.org/abs/2601.10696)
 
 ## Abstract

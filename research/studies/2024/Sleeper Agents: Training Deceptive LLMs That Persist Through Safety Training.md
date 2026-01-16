@@ -1,6 +1,7 @@
 # Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training
 
 Author: Anthropic
+
 Source: [Sleeper Agents: Training Deceptive LLMs That Persist Through Safety Training](https://arxiv.org/abs/2401.05566)
 
 ## Abstract

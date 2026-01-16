@@ -1,6 +1,7 @@
 # Agentic Misalignment: How LLMs could be insider threats
 
 Author: Anthropic
+
 Source: [Agentic Misalignment: How LLMs could be insider threats](https://www.anthropic.com/research/agentic-misalignment)
 
 ## Highlights
