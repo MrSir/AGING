@@ -9,3 +9,5 @@ To Review:
 - https://www.anthropic.com/research/small-samples-poison
 - https://www.anthropic.com/research/emergent-misalignment-reward-hacking
 - https://www.anthropic.com/research/bloom
+- https://crescendo-the-multiturn-jailbreak.github.io/
+- https://www.youtube.com/watch?v=Qg5QXY_qZuI
