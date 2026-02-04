@@ -1,7 +1,12 @@
 To Review:
-- https://arxiv.org/abs/2601.10599
-- https://arxiv.org/abs/2601.10160
+- https://arxiv.org/abs/2512.04131
+- https://arxiv.org/abs/2512.01456
 - https://arxiv.org/abs/2601.10088
+- https://arxiv.org/abs/2601.10160
+- https://arxiv.org/abs/2601.10468
+- https://arxiv.org/abs/2601.10599
+- https://arxiv.org/abs/2601.16700
+- https://arxiv.org/abs/2601.19338
 - https://www.anthropic.com/research/towards-understanding-sycophancy-in-language-models
 - https://www.anthropic.com/research/many-shot-jailbreaking
 - https://www.anthropic.com/research/reward-tampering
