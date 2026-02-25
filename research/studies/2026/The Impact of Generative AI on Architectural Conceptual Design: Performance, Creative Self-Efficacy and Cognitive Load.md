@@ -1,10 +1,11 @@
-# Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
+# The Impact of Generative AI on Architectural Conceptual Design: Performance, Creative Self-Efficacy and Cognitive Load
 
-Author: Anthropic
+Author: Worcester Polytechnic Institute
 
 Source: [The Impact of Generative AI on Architectural Conceptual Design: Performance, Creative Self-Efficacy and Cognitive Load](https://arxiv.org/abs/2601.10696)
 
 ## Abstract
 Our study examines how generative AI (GenAI) influences performance, creative self-efficacy, and cognitive load in architectural conceptual design tasks. Thirty-six student participants from Architectural Engineering and other disciplines completed a two-phase architectural design task, first independently and then with external tools (GenAI-assisted condition and control condition using an online repository of existing architectural projects). Design outcomes were evaluated by expert raters, while self-efficacy and cognitive load were self-reported after each phase. Difference-in-differences analyses revealed no overall performance advantage of GenAI across participants; however, subgroup analyses showed that GenAI significantly improved design performance for novice designers. In contrast, general creative self-efficacy declined for students using GenAI. Cognitive load did not differ significantly between conditions, though prompt usage patterns showed that iterative idea generation and visual feedback prompts were linked to greater reductions in cognitive load. These findings suggest that GenAI effectiveness depends on users' prior expertise and interaction strategies through prompting.
 
-## In a gist
+## Key Points
+- While we did not find cognitive load reduction for the GenAI group in general, the improper prompting can even increase the cognitive load due to learning curves, interface friction, and limited domain alignment [28]. In architectural design education, GenAI’s potential benefits therefore remain inseparable from the need for structured guidance and pedagogical support.
